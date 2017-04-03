@@ -1,5 +1,5 @@
 ## Caching inverse of matrix and solving for its inverse
-## makeCacheMatrix is a function that caches a matrix like 
+## makeCacheMatrix is a function that caches a matrix  
 
 
 
